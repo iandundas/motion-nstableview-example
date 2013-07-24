@@ -13,3 +13,8 @@ Once I'd got it working, I converted it to use AutoLayout. Note the sequence tha
     constrain_views
     
 I find this sequence helps categorise what can be a complicated setup (if it were a more complicated controller, at least).
+
+To get started (note that RubyMotion 2 is required for OSX support):
+
+	$ cd motion-nstableview-example
+	$ rake
